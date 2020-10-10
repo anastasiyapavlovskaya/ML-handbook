@@ -1,3 +1,7 @@
+layout: page
+title: intro
+permalink: /chapters/intro
+
 # Пример главы
 0. Вставки кода тоже хорошо работают
 
