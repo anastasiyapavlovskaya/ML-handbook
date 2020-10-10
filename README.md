@@ -1,6 +1,6 @@
 # ML-handbook
 
-{% include notebook path="./js_on_change.html" %}
+{% include js_on_change.html %}
 
 <!-- <iframe src="/_includes/js_on_change.html"
     sandbox="allow-same-origin allow-scripts"
