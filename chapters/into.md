@@ -11,24 +11,21 @@ permalink: /chapters/intro
 
 1. Картинки
 
-  <img src="../imgs/shad.png"  width="300">
+    <img src="../imgs/shad.png"  width="300">
 
 2. Код
 
-  ```python
-  def function():
-      #indenting works just fine in the fenced code block
-      s = "Python code"
-      print s
-  ```
+    ```python
+    def function():
+        #indenting works just fine in the fenced code block
+        s = "Python code"
+        print s
+    ```
 
 4. Формулы инлайн
-
-  $$a^2+b^2=c^2$$
   
-  \\( 1/x^{2} \\)
-  
+    $1/x^{2}$
 
 5. Формулы не инлайн
   
-  \\[ \frac{1}{n^{2}} \\]
+    $$ 1/x^{2} $$
