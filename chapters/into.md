@@ -1,7 +1,6 @@
 ---
 layout: page
 title: intro
-usemathjax: true
 layout: default
 permalink: /chapters/intro
 ---
@@ -37,9 +36,6 @@ def function():
 4. Формулы inline
 
 $$a^2+b^2=c^2$$
-\[a^2+b^2=c^2\]
-\\[a^2+b^2=c^2\\]
-
 
 5. Формулы не inline
 
