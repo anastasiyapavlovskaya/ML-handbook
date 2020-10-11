@@ -1,6 +1,6 @@
 ---
 title: intro
-layout: page
+layout: default
 permalink: /chapters/intro
 ---
 
