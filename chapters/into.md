@@ -26,5 +26,6 @@ permalink: /chapters/intro
 
   $$a^2+b^2=c^2$$
   $$ a^2+b^2=c^2 $$
+  
   \\( 1/x^{2} \\)
   \\[ \frac{1}{n^{2}} \\]
