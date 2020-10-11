@@ -1,6 +1,6 @@
 ---
 title: intro
-layout: default
+layout: page
 permalink: /chapters/intro
 ---
 
@@ -22,10 +22,13 @@ permalink: /chapters/intro
       print s
   ```
 
-4. Формулы
+4. Формулы инлайн
 
   $$a^2+b^2=c^2$$
-  $$ a^2+b^2=c^2 $$
   
   \\( 1/x^{2} \\)
+  
+
+5. Формулы не инлайн
+  
   \\[ \frac{1}{n^{2}} \\]
