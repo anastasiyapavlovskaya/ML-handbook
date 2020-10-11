@@ -6,9 +6,9 @@ permalink: /chapters/intro
 ---
 
 # Пример главы
-0. Интерактивные ставки как-то работают
+0. Интерактивные вставки как-то работают
 
-  {% include js_on_change.html %}
+    {% include js_on_change.html %}
 
 1. Картинки
 
