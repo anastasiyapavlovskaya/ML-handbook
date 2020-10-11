@@ -1,6 +1,7 @@
 ---
 layout: page
 title: intro
+mathjax: true
 permalink: /chapters/intro
 ---
 
@@ -32,7 +33,7 @@ def function():
     print s
 ```
 
-3. Диаграммы
+<!-- 3. Диаграммы
 
 ```mermaid
 graph TD;
@@ -40,13 +41,12 @@ graph TD;
   A-->C;
   B-->D;
   C-->D;
-```
+``` -->
 
 4. Формулы inline
 
-$`a^2+b^2=c^2`$
+$$`a^2+b^2=c^2`$$
 
-$`\int e^{-x^2}`$
 
 5. Формулы не inline
 
