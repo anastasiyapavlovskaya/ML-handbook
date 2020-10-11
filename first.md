@@ -1,6 +1,6 @@
 ---
 title: My First Page
-layout: page
+layout: default
 permalink: /first
 ---
 
