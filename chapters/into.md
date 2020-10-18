@@ -29,3 +29,7 @@ permalink: /chapters/intro
 5. Формулы не инлайн
   
     $$ 1/x^{2} $$
+
+6. Вставки кода, которые компилятся
+<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@anastasiyapavl1/AssuredSlategrayGenerics?lite=true"></iframe>
+
